@@ -15,4 +15,5 @@ of a MOOC platform.</p></br>
 <p>This is a calculator that calculates things like square root, mod, etc., of an input number.</p></br>
 
 <h2>VerificadorIdadeSwing</h2>
-<p>In this project the user has to input their age and the program will calculate if it has the age for voting.</p></br>
+<p>In this project the user has to input their age and the program will calculate if it has the age for voting. The goal
+of this project is to exercise the use of the <strong>JavaSWING</strong> library.</p></br>
