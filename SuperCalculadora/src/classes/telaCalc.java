@@ -51,7 +51,7 @@ public class telaCalc extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(153, 0, 153));
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(51, 0, 255));
-        jLabel1.setText("CALCULADORA FODIDONA");
+        jLabel1.setText("CALCULADORA");
         jLabel1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(51, 0, 51), 3, true));
         jLabel1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
